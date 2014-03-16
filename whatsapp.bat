@@ -1,0 +1,1 @@
+python yowsup-cli -c config.example -i %1
